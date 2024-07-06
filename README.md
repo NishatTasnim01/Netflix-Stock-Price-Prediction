@@ -1,6 +1,6 @@
 <h1 align="center">Netflix Stock Price Prediction 🎥</h2>
 
-<p align="left"> This repository contains code for predicting Netflix (NFLX) stock prices using two different machine learning models: Long Short-Term Memory (LSTM) for time series forecasting and Logistic Regression. </p>
+<p align="left"> This repository contains code for predicting Netflix (NFLX) stock prices using two different machine learning models: Long Short-Term Memory (LSTM) for time series forecasting and Logistic Regression. 🍿</p>
 
 ## Overview
 The project aims to forecast the closing stock prices of Netflix using historical data. Two models are implemented and compared:
@@ -32,4 +32,3 @@ To run the models:
 
 ## Contribute
 🚀 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-
