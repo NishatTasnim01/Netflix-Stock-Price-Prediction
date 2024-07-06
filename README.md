@@ -20,11 +20,16 @@ The dataset used is NFLX.csv containing daily stock prices from Kaggle.
 ## Evaluation Metrics
 Both models are evaluated using metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) score to assess their performance in predicting stock prices.
 
-## Conclusion
-The results and conclusions drawn from both models are discussed, highlighting their strengths and limitations in predicting Netflix stock prices based on historical data.
-
 ## Usage
 To run the models:
-1. Clone the repository:
+- **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/netflix-stock-price-prediction.git
+
+- **Install the required dependencies:**
+   ```bash
+   pip install tensorflow scikit-learn pandas matplotlib
+
+## Contribute
+🚀 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
