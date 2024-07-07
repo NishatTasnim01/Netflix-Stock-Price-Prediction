@@ -24,7 +24,7 @@ Both models are evaluated using metrics such as Mean Squared Error (MSE), Root M
 To run the models:
 - **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/netflix-stock-price-prediction.git
+   https://github.com/NishatTasnim01/Netflix-Stock-Price-Prediction.git
 
 - **Install the required dependencies:**
    ```bash
